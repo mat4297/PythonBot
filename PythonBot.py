@@ -7,7 +7,7 @@
 from telegram.ext import CommandHandler
 from telegram.ext import Updater
 updater = Updater(
-    token='681592485:AAHzuV5bqWpShFgjcyy6u6ALZ86YCIHg8Bk', use_context=True)
+    token='', use_context=True)
 import logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                      level=logging.INFO)
